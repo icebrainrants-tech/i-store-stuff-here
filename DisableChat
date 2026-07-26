@@ -1,0 +1,4 @@
+local TextChatService = game:GetService("TextChatService")
+
+TextChatService.ChatWindowConfiguration.Enabled = false
+TextChatService.ChatInputBarConfiguration.Enabled = false
